@@ -1,0 +1,77 @@
+{
+  "Book": [
+    {
+      "Titel": "Harry Potter and the Prisoner of Azkaban",
+      "Arthur": "J.K. Rowling",
+      "Genre": "Fantasy",
+      "PublishedYear": 1999,
+      "Id": 1,
+      "ISBN": 1000,
+      "Recension": [ 5, 4, 4, 5 ]
+    },
+    {
+      "Titel": "Harry Potter and the Philosopher's Stone",
+      "Arthur": "J.K. Rowling",
+      "Genre": "Fantasy",
+      "PublishedYear": 1998,
+      "Id": 2,
+      "ISBN": 1001,
+      "Recension": [ 4, 4, 5, 3 ]
+    },
+    {
+      "Titel": "Pippi Langstrump",
+      "Arthur": "Astrid Lindgren",
+      "Genre": "Children's Literature",
+      "PublishedYear": 1945,
+      "Id": 3,
+      "ISBN": 1002,
+      "Recension": [ 3, 4, 3, 2 ]
+    },
+    {
+      "Titel": "Broderna lejonhjarta",
+      "Arthur": "Astrid Lindgren",
+      "Genre": "Fantasy",
+      "PublishedYear": 1973,
+      "Id": 4,
+      "ISBN": 1003,
+      "Recension": [ 3, 3, 2, 4 ]
+    },
+    {
+      "Titel": "War and Peace",
+      "Arthur": "Leo Tolstoy",
+      "Genre": "Historical Fiction",
+      "PublishedYear": 1869,
+      "Id": 5,
+      "ISBN": 1004,
+      "Recension": [ 2, 1, 1, 3 ]
+    },
+    {
+      "Titel": "Anna Karenina",
+      "Arthur": "Leo Tolstoy",
+      "Genre": "Fantasy",
+      "PublishedYear": 1877,
+      "Id": 6,
+      "ISBN": 1005,
+      "Recension": [ 3, 5, 2, 1 ]
+    }
+  ],
+  "Arthur": [
+    {
+      "Id": 1,
+      "Name": "J.K. Rowling",
+      "Country": "Great Britain"
+    },
+    {
+      "Id": 2,
+      "Name": "Astrid Lindgren",
+      "Country": "Sweden"
+    },
+    {
+      "Id": 3,
+      "Name": "Leo Tolstoy",
+      "Country": "Russia"
+    }
+  ]
+}
+
+
